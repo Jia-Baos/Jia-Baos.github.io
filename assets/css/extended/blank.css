@@ -1,0 +1,6 @@
+.post-content pre,
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 1rem;
+  line-height: 1.2;
+}
