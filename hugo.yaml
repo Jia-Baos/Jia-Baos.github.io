@@ -74,34 +74,18 @@ params:
     Title: "Hey Guys 👋"
     # 首页的 profile 内容
     Content: >
-      Welcome to my Blog!
+      I'm Jia-Baos, a Robot Vision Algorithm Engineer. Welcome to my Blog!
       <br>
-      也可以在其他地方访问我的文字材料，如下：
+      Email: 18383827268@163.com
       <br>
-      <div>
-      ● [SonnyCalcr's Notion](https://www.notion.so/luflyan/b5ee8643e563498b96c6b7ab0f27343b)
-      <br>
-      ● [博客园](https://www.cnblogs.com/fanlumaster)
-      <br>
-      ● My personal username of Discord is sonnycalcr, and, welcome to my [Discord Group/Server](https://discord.gg/HCebZMrfhE), maybe just to talk about some simple problems.
-      </div>
   # 社交帐号的按钮
   socialIcons:
     - name: github
       title: Follow my Github
-      url: "https://github.com/sonnycalcr"
-    - name: X
-      title: Follow my Twitter
-      url: "https://x.com/sonnycalcr"
+      url: "https://github.com/Jia-Baos"
     - name: Bilibili
       title: 关注我的 B 站帐号
-      url: "https://space.bilibili.com/3493138859559908"
-    - name: Youtube
-      title: Follow my Youtube Channel
-      url: "https://youtube.com/@sonnycalcr"
-    - name: Telegram
-      title: Contact Me
-      url: "https://t.me/sonnycalcr"
+      url: "https://space.bilibili.com/167527483"
 
   # 搜索
   fuseOpts:

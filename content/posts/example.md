@@ -1,8 +1,8 @@
 +++
-title = 'My First Post'
+title = 'Example'
 date = '2025-04-18T22:08:47+08:00'
-categories = ["通用技术"]
-tags = ["博客搭建", "Bilibili"]
+categories = ["example"]
+tags = ["example"]
 # draft = true
 +++
 
