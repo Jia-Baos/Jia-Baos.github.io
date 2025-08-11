@@ -21,6 +21,15 @@ source .venv/bin/activate
 .venv\Scripts\activate
 ```
 
+### 执行 Python 脚本
+
+```
+# 激活环境后运行
+python your_script.py
+
+uv run python your_script.py
+```
+
 ### 安装依赖包
 
 ```
