@@ -27,6 +27,12 @@ source .venv/bin/activate
 # 激活环境后运行
 python your_script.py
 
+# When used with a file ending in .py or an HTTP(S) URL,
+# the file will be treated as a script and run with a Python interpreter,
+# i.e., uv run file.py is equivalent to uv run python file.py.
+
+uv run your_script.py
+
 uv run python your_script.py
 ```
 
