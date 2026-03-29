@@ -26,14 +26,12 @@ Chenbo Shi, **Baodun Jia**, Chun Zhang, Xiangteng Zang, Junsheng Zhang, Xin Jian
 
 ## 技能
 
-熟练使用C++、熟悉STL中的各种容器
+熟练使用 C++、熟悉 STL 中的各种容器、内存管理、多线程编程，ROS2 开发
 
-熟悉Python、Shell、Rust等编程语言
+熟悉 Opencv PCL Eigen TensorRT 等三方库，图像、点云处理，机器人空间变换及主动识别感知（单线激光、3D相机识别，基于栅格的障碍物检测）
 
-熟悉Opencv、PaddleOCR、Pytorch等三方库
+熟悉 Python CUDA Rust 等编程语言，检测、分割模型的训练、端侧部署及优化（x86 aarch64 jetson），基于 CUDA OpenCL 的优化加速
 
-熟悉CMake、MinGW、Git等编译、版本控制工具
+熟悉图像配准、图像拼接、光流估计等图像任务，首演标定、传感器标定（3D 相机、单线、多线激光）
 
-熟悉图像配准、图像拼接、光流估计等图像任务
-
-熟悉计算成像过程、3A、ISP、双目、结构光等技术
+熟悉 Docker CMake Git 等容器、编译、版本控制工具
