@@ -32,6 +32,6 @@ Chenbo Shi, **Baodun Jia**, Chun Zhang, Xiangteng Zang, Junsheng Zhang, Xin Jian
 
 熟悉 Python CUDA Rust 等编程语言，检测、分割模型的训练、端侧部署及优化（x86 aarch64 jetson），基于 CUDA OpenCL 的优化加速
 
-熟悉图像配准、图像拼接、光流估计等图像任务，首演标定、传感器标定（3D 相机、单线、多线激光）
+熟悉图像配准、图像拼接、光流估计等图像任务，手眼标定、传感器标定（3D 相机、单线、多线激光）
 
 熟悉 Docker CMake Git 等容器、编译、版本控制工具
